@@ -4,7 +4,7 @@ Image som fuld størrelse (browser-størrlesen)
 
 Et [link til noget](http://hakim.se).  
 
-En masse indhold  
+En masse indhold!
 
 --
 
