@@ -74,7 +74,8 @@ Stopper efter første semester...
 
 ---
 
-## Hvad så - fjumreår
+## Hvad så - et fjumreår...
+## ...eller to!
 1988 Presseningsfabrik, Polysheet A/S, Herlev
 <!-- .element: class="fragment" -->
 1989-1990 Dansk P. A. Center, Nørrebro
