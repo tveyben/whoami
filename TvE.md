@@ -197,3 +197,6 @@ note:TeleDanmark Kabel TV > TDC Kabel TV > OnCable > YouSee > Nuuday
 note: gammelt foto - nu 3 x så stort
 
 ---
+
+## Spørgsmål
+<img src="img/questions.jpg" width="80%" height="80%" />
